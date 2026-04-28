@@ -1,0 +1,32 @@
+.cart_path {
+    display: flex;
+    justify-content: flex;
+    gap: 10px;
+}
+
+.cart_path {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+.cart_path a {
+    text-decoration: none;
+    color: #666;
+    padding: 0 5px;
+}
+
+.cart_path a:hover {
+    color: #ff9900;
+    /* đổi màu khi hover */
+}
+
+.divider {
+    color: #ccc;
+    /* màu cho dấu gạch dọc */
+    margin: 0 5px;
+}
+
+.cart_container {
+    padding: 40px;
+    margin: 0 auto;
+}

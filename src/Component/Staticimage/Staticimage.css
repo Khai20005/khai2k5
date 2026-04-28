@@ -1,0 +1,56 @@
+.static-container {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.static-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    padding-left: 180px;
+    padding-top: 20px;
+    display: flex;
+    /* margin-left: 20px; */
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+.ruouvang {
+    width: auto;
+    height: auto;
+    display: block;
+    /* margin: 0 auto; */
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sake-static-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    padding-left: 180px;
+    padding-top: 20px;
+    display: flex;
+    /* margin-left: 20px; */
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+.ruouvangsake {
+    width: auto;
+    height: auto;
+    display: block;
+    /* margin: 0 auto; */
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ruouvangchivas {
+    width: auto;
+    height: 500px;
+    padding-left: 20px;
+    padding-top: 15px;
+}
