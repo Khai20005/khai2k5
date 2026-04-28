@@ -1,0 +1,8 @@
+.home-title {
+    padding-left: 200px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.home-title:hover {
+    color: blue;
+}
